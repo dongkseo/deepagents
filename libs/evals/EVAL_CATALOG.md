@@ -4,7 +4,7 @@
 Quick reference for every eval, grouped by category.
 Source of truth: [`tests/evals/`](tests/evals/).
 
-**84 evals** across **7 categories**
+**85 evals** across **7 categories**
 
 ## File Ops (`file_operations`) (13 evals)
 
